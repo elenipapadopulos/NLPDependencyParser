@@ -6,4 +6,6 @@ The dataset used is Universal Depencencies English LinES.
 Specifically, we have developed the Arc Eager system (which you can get more into detail about here: https://aclanthology.org/W03-3017.pdf) using two different approaches:
 - using a BiLSTM network
 - using BERT
+
+  
 to embed the words of the sentences.
