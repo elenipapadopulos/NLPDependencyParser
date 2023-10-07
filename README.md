@@ -7,5 +7,4 @@ Specifically, we have developed the Arc Eager system (which you can get more int
 - using a BiLSTM network
 - using BERT
 
-  
 to embed the words of the sentences.
